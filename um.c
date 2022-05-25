@@ -6,8 +6,8 @@ positivos. (2, 4, 6, ...200)*/
 
 void cemPrimeirosPares (int n);
 
-int main()
-{   int i=0;
+int main(){   
+    int i=0;
     cemPrimeirosPares(i);
     return 0;
 }
