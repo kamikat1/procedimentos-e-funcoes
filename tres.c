@@ -21,6 +21,6 @@ void mesesDoAno(int n){
     char meses[12][10]= {"janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho",
     "agosto", "setembro", "outubro", "novembro", "dezembro"};
 
-    printf("%s", meses[n-1]);
-
+    (n>=1 && n<=12) ? printf("%s", meses[n-1]) : printf("O número digitado não corresponde a nenhum mês.");
 }
+
