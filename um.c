@@ -4,7 +4,7 @@ positivos. (2, 4, 6, ...200)*/
 #include <stdio.h>
 #include <stdlib.h>
 
-void cemPrimeirosPares (int n);
+void cemPrimeirosPares (int i);
 
 int main(){   
     int i=0;
