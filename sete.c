@@ -14,7 +14,7 @@ int i;
     scanf("%f %f %f", &a, &b, &c);
 
     result = retornaMaior (a,b,c);
-    printf("%f",retornaMaior);
+    printf("%f",result);
 
     return 0;
 }
