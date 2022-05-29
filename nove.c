@@ -1,5 +1,5 @@
 /*Faça uma função que receba dois valores e retorne o MDC entre esses
-números inteiros nao negativos*/
+números*/
 
 #include <stdio.h>
 #include <stdlib.h>
